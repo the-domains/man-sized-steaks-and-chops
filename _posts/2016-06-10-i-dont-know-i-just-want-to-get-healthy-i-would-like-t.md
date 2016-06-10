@@ -1,7 +1,7 @@
 ---
 description: My Jackie Robinson Year
-dateModified: '2016-06-10T12:37:23.530Z'
-datePublished: '2016-06-10T12:37:46.069Z'
+dateModified: '2016-06-10T12:40:37.734Z'
+datePublished: '2016-06-10T12:40:48.542Z'
 title: >-
   “I don't know. I just want to... get healthy. I would like to start taking
   better care of myself. I'd like to start eating healthier - I don't want all
@@ -10,17 +10,15 @@ title: >-
 
   (Bob Harris, “Lost in Translation,” Focus Features, 2003)
 author: []
-starred: false
 sourcePath: _posts/2016-06-10-i-dont-know-i-just-want-to-get-healthy-i-would-like-t.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![“I don't know. I just want to... get healthy. I would like to start taking better care of myself. I'd like to start eating healthier - I don't want all that pasta. I would like to start eating like Japanese food.”
-
-(Bob Harris, “Lost in Translation,” Focus Features, 2003)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4598791-7571-47e9-9ba7-fa24e312d46b.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4598791-7571-47e9-9ba7-fa24e312d46b.png)
 
 My Jackie Robinson Year
 

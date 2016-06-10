@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7096774
 color:
-  saturation: 0.7437276
+  saturation: 0.172043
   brandStrength: 0.3335775074083358
-  lightness: 0.8243728
+  lightness: 1
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  rhythmicContrast: 0.9551972
+  rhythmicContrast: 0.749104
+typography_spectrum: 0.7096774
 layout_spectrum: 0.05017921
 name: Man Sized Steaks and Chops

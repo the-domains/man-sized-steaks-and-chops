@@ -1,7 +1,7 @@
 ---
 description: THE 42
-dateModified: '2016-06-11T12:34:57.608Z'
-datePublished: '2016-06-11T12:35:56.549Z'
+dateModified: '2016-06-11T12:59:42.258Z'
+datePublished: '2016-06-11T12:59:53.292Z'
 title: >-
   “I don't know. I just want to... get healthy. I would like to start taking
   better care of myself. I'd like to start eating healthier - I don't want all
@@ -32,4 +32,4 @@ I know this to be true because my mother recently posted a photograph of 28 me a
 
 At 42 though I am supposed to be endowed with a wisdom and self-awareness one gains only through the sometimes bumpy sometimes constricting passage of time. Insight and introspection must _surely_ be superior to the misplaced and often displaced energies of youth. I can now enroll in classes that utilize paleolithic movements, buy organic fruits and vegetables to be pureed into an antioxidant smoothie each morning, procure an entire wardrobe of form fitting moisture wicking apparel to make my exercising pleasant and smile-inducing. As a 42 year old adult I can _do_ better than a 28 year old man-child. Right?
 
-But "adulting" as Internet memes intimate is hard and 42 me wonders if he has the courage, fortitude and _grit_ (such an "it" word right now) to face down my Jackie Robinson year. It's time to find out.
+But "adulting" as Internet memes intimate is hard and 42 me wonders if he has the courage, fortitude and _grit_ (such an "it" word right now) to face down the 42\. It's time to find out.

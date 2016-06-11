@@ -1,7 +1,7 @@
 ---
 description: THE 42
-dateModified: '2016-06-11T12:59:42.258Z'
-datePublished: '2016-06-11T12:59:53.292Z'
+dateModified: '2016-06-11T13:01:00.977Z'
+datePublished: '2016-06-11T13:01:09.521Z'
 title: >-
   “I don't know. I just want to... get healthy. I would like to start taking
   better care of myself. I'd like to start eating healthier - I don't want all

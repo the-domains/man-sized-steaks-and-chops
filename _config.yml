@@ -10,9 +10,8 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7096774
 color:
-  saturation: 0.09318996
+  saturation: 0.6003584
   brandStrength: 0.3335775074083358
   lightness: 1
   brandColors:
@@ -22,5 +21,6 @@ color:
     - '#3E606F'
     - '#193441'
   rhythmicContrast: 0.5250896
+typography_spectrum: 0.7096774
 layout_spectrum: 0.05017921
 name: Man Sized Steaks and Chops

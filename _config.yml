@@ -4,14 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7096774
 color:
-  saturation: 0.172043
+  saturation: 0.09318996
   brandStrength: 0.3335775074083358
   lightness: 1
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  rhythmicContrast: 0.749104
-typography_spectrum: 0.7096774
+  rhythmicContrast: 0.5250896
 layout_spectrum: 0.05017921
 name: Man Sized Steaks and Chops
